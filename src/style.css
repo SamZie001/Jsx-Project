@@ -1,0 +1,12 @@
+.title, .red{
+    color: red
+}
+
+.App{
+    background-color: rgb(14, 65, 220);
+}
+
+.band{
+    width: 500px;
+    height: 500px;
+}
